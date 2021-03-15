@@ -1,6 +1,6 @@
 # Mandelbrot set genaration with automated zooming in using Matlab
 ---
-Mandelbrot set is a form fractal obtained by visualizing convergence of the complex function <img src="https://render.githubusercontent.com/render/math?math=f(z)=z^2%2Bc"> for different value of *c* in the complex plan.
+Mandelbrot set is a form fractal obtained by visualizing convergence of the complex function <img src="https://render.githubusercontent.com/render/math?math=f(z)=z^2%2Bc"> for different value of <img src="https://render.githubusercontent.com/render/math?math=f(z)=c"> in the complex plan.
 
 ---
 
@@ -16,9 +16,9 @@ This result is obtained for <img src="https://render.githubusercontent.com/rende
 
 Here, for choosing colors, we use the scalar color maps existing in matlab with:
 
-'''bash
+```bash
 colormap jet       % this line can be changed in the file MandelbrotSet_zoom.m
-'''
+```
 
 we get
 
@@ -29,9 +29,11 @@ we get
 ### Change colors
 
 Different color map can be used for instance with:
-'''bash
+
+```bash
 colormap colorcube
-'''
+```
+
 it provides
 
 <p align="center">
@@ -40,9 +42,11 @@ it provides
 
 
 with:
-'''bash
+
+```bash
 colormap lines
-'''
+```
+
 it provides
 
 <p align="center">
