@@ -18,7 +18,7 @@ imagesc(k),
 str = ['Zoom-in : ',num2str(1.4/width)];
 title(str,'FontSize',12,...
     'FontWeight','bold','Color','r')
-%xlabel('copyright@Rabehi', 'FontSize',9 )
+xlabel('copyright@Rabehi', 'FontSize',9 )
 
 %% Set here the color map
 % colorcube %lines %prism %colorcube %pink %jet %cool %default %spring %summer %winter %hot

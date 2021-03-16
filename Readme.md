@@ -1,6 +1,6 @@
-# Mandelbrot set genaration with automated zooming in using Matlab
+# Mandelbrot set genaraeion with automated zoom-in using Matlab
 ---
-Mandelbrot set is a form fractal obtained by visualizing convergence of the complex function <img src="https://render.githubusercontent.com/render/math?math=f(z)=z^2%2Bc"> for different value of <img src="https://render.githubusercontent.com/render/math?math=c"> in the complex plan.
+Mandelbrot set is a form of fractal obtained by visualizing convergence of the complex function <img src="https://render.githubusercontent.com/render/math?math=f(z)=z^2%2Bc"> with respect to the values of the constant <img src="https://render.githubusercontent.com/render/math?math=c"> in the complex plan.
 
 ---
 
